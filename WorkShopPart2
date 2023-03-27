@@ -88,3 +88,4 @@ docker build -t givesomelocalname .  // this will build the image locally
 docker container run --name pythoncontainer -p 8080:8080 imagename
 
 curl localhost:8080
+ABCDEFGHIJKLMP
